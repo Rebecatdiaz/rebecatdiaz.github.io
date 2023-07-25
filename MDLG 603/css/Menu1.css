@@ -1,0 +1,23 @@
+.menu1{
+	width: 98.5%;
+	padding: 0px;
+	margin: 3px;
+	background-color: #330000;
+	text-align: center;
+ }
+.menu1 li{
+    list-style: none;/*quita las viñetas*/
+    display: inline-block;/*lista en línea horizontal*/
+   
+
+ }
+.menu1 li a{
+	text-decoration: none;/*quita las viñetas*/
+	color: #af7f84;
+	padding: 10px;
+	margin: 20px;
+}
+.menu1 li a:hover {/*cuando el cursor pasa por encima*/
+background-color: #e5b06f;
+color: #FFFFFF;
+}

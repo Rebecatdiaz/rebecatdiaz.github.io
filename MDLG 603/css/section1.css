@@ -1,0 +1,22 @@
+.section1{
+    width: 1350px;
+    height: 300px;
+    background-color: khaki;
+    
+}
+
+.btn1{
+    background-color: sienna;
+    width: 200px;
+    height: 40px;
+    color: aliceblue;
+    border-radius: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;/*blanquitas*/
+    cursor: pointer;
+    border: 2px solid rgb(74, 55, 40);
+    display: block;
+	padding: 0.5rem 1rem;
+	justify-content: center;
+    margin-top: 0auto;
+}
